@@ -123,3 +123,14 @@ python3 generate_token_pickle.py
 ## How to reach Me ?
 <a href="https://telegram.dog/cyberw4rriors"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://telegram.dog/Cyberw4rriors"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
+## Thanks and credits
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+- [Tools HD Admin](https://telegram.org/ToolsHD)
+- [Dan](https://telegram.dog/haskell) for his pyrogram docs
+- [Spechide](https://telegram.dog/SpEcHIDe) for his string module
+
+## TO DO
+
+- [ ] Adding Leech string updating everytime
