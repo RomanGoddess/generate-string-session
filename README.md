@@ -1,6 +1,5 @@
 ## SESSION-STRING-GENERATOR-CODES
-This repo has the codes of String Generation. there is more difference between my bot and this repo. But the purposes is same
-
+This repo has the codes of String Generation
 #Help Of Mirror Bot to @Cyberw4rriors ????
 
 Telegraph Token Generator : 
