@@ -127,7 +127,7 @@ python3 generate_token_pickle.py
 
 ## Thanks and credits
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-- [Tools HD Admin](https://telegram.org/ToolsHD)
+- [Tools HD Admin](https://t.me/ToolsHD)
 - [Dan](https://telegram.dog/haskell) for his pyrogram docs
 - [Spechide](https://telegram.dog/SpEcHIDe) for his string module
 
